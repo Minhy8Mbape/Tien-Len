@@ -2,6 +2,8 @@ Tiến Lên
 
 Slide: https://www.canva.com/design/DAHIzsr4oec/SBZFaGanM8VS0iwB-ax1bw/edit
 
+Code: https://onlinegdb.com/Wcav5oYm0N
+
 -Là một trò chơi dùng bộ bài Tây 52 lá, thường chơi từ 2–4 người. Mục tiêu là đánh hết bài trên tay trước những người còn lại.
 
 -Mỗi người được chia 13 lá.
